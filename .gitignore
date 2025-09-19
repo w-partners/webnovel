@@ -1,0 +1,13 @@
+# 임시 파일
+*.tmp
+*.bak
+*~
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 편집기
+.vscode/
+.idea/
+*.swp
